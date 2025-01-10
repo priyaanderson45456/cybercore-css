@@ -1,0 +1,10 @@
+{
+  "name": "cybercore-css",
+  "version": "0.1.0",
+  "description": "Pure CSS cyberpunk design framework with neon aesthetics. See also: cybercore-charts for data visualization.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
