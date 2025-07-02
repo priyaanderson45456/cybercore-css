@@ -13,3 +13,4 @@ Notes and usage details for cybercore-css.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
