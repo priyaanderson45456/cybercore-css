@@ -1,6 +1,6 @@
 {
   "name": "cybercore-css",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Pure CSS cyberpunk design framework with neon aesthetics. See also: cybercore-charts for data visualization.",
   "main": "src/index.ts",
   "scripts": {
