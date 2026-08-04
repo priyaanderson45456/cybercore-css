@@ -33,3 +33,4 @@ Notes and usage details for cybercore-css.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
